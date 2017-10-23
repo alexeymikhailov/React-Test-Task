@@ -1,11 +1,14 @@
 # React-Test-Task
 
 ## Contains
-React 
-Webpack 
-Express
-ES6
-Webpack-Dev-Server
+
+* React 
+* Webpack 
+* Express
+* ES6
+* Webpack-Dev-Server
+
+## Getting Started
 
 ```sh
 $ git clone https://github.com/alexeymikhailov/React-Test-Task.git

@@ -8,6 +8,8 @@ const config={
 
 	entry: {
 		bundle: [
+			'webpack-dev-server/client?http://localhost:3000',
+			'webpack/hot/dev-server',
 			'./src/js/index.js'
 		]
 	},
